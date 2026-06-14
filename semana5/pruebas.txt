@@ -1,0 +1,5 @@
+Ruta / : devuelve "Servidor activo" — indica que el servidor está corriendo.
+
+Ruta /saludo : devuelve "Hola comunidad" — saludo genérico.
+
+Ruta /mensaje/juan : devuelve "Hola juan" — usa el parámetro de ruta para personalizar el saludo.

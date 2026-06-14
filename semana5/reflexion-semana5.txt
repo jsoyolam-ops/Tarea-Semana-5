@@ -1,0 +1,8 @@
+Las APIs permiten a las comunidades compartir información de forma estructurada y accesible.
+Facilitan la integración entre aplicaciones distintas (web, móvil, bots).
+Permiten automatizar la recepción y el envío de alertas y reportes.
+Ayudan a centralizar datos para análisis y seguimiento de incidencias.
+Hacen posible controlar permisos y validar la información enviada.
+Pueden enviar notificaciones a moderadores o canales específicos.
+Favorecen la transparencia al mantener un registro de reportes.
+Son escalables: múltiples usuarios y servicios pueden interactuar al mismo tiempo.
